@@ -1,0 +1,36 @@
+*{
+    margin: 0px ;
+    padding: 0px;
+}
+.header-strip {
+    color: white;
+    background-color: #316dc3;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.social-icons{
+    display: flex;
+    padding: 0px 10px 0px 30px;
+    /* justify-content: space-between; */
+  
+
+}
+.social-icons img{
+    width: 20px;
+    height: 20px;
+    margin: 0px 7px 0px 7px;
+}
+.buttons{
+    display: flex;
+    padding: 0px 10px 0px 30px;
+    flex-wrap: wrap;
+}
+.btn{
+    font-size: 12px;
+    margin: 0px 3px;
+}
+.Logo{
+    height: 50pxpx;
+    width: 200px;
+
+}
